@@ -1,0 +1,313 @@
+Player,Pos,Squad,Min,Gls,Ast,G+A_per90,rank_in_pos
+Rodri,MF,Manchester City,2931,8,9,0.5220061412487205,11.0
+Phil Foden,FW,Manchester City,2857,19,8,0.8505425271263564,10.0
+Julián Álvarez,MF,Manchester City,2647,11,8,0.646014355874575,5.0
+Kyle Walker,DF,Manchester City,2767,0,4,0.13010480664980123,47.0
+Bernardo Silva,MF,Manchester City,2578,6,9,0.5236617532971295,10.0
+Erling Haaland,FW,Manchester City,2552,27,5,1.1285266457680252,3.0
+Rúben Dias,DF,Manchester City,2559,0,0,0.0,114.0
+Manuel Akanji,DF,Manchester City,2511,2,0,0.07168458781362008,86.0
+Joško Gvardiol,DF,Manchester City,2328,4,1,0.19329896907216496,22.0
+Nathan Aké,DF,Manchester City,2042,2,2,0.1762977473065622,26.0
+Jeremy Doku,FW,Manchester City,1595,3,8,0.6206896551724138,29.0
+Mateo Kovačić,MF,Manchester City,1551,1,0,0.058027079303675046,85.0
+Kevin De Bruyne,MF,Manchester City,1221,4,10,1.031941031941032,1.0
+John Stones,DF,Manchester City,1064,1,0,0.08458646616541353,70.0
+Jack Grealish,FW,Manchester City,1009,3,1,0.356788899900892,64.0
+Virgil van Dijk,DF,Liverpool,3177,2,2,0.113314447592068,54.0
+Luis Díaz,FW,Liverpool,2629,8,5,0.4450361354127044,50.0
+Alexis Mac Allister,MF,Liverpool,2599,5,5,0.34628703347441325,23.0
+Mohamed Salah,FW,Liverpool,2534,18,10,0.994475138121547,5.0
+Trent Alexander-Arnold,DF,Liverpool,2155,3,4,0.2923433874709977,9.0
+Dominik Szoboszlai,MF,Liverpool,2104,3,2,0.21387832699619774,50.0
+Darwin Núñez,FW,Liverpool,2047,11,8,0.8353688324377138,11.0
+Wataru Endo,MF,Liverpool,1722,1,0,0.05226480836236934,88.0
+Andrew Robertson,DF,Liverpool,1693,3,2,0.26580035440047256,11.0
+Joe Gomez,DF,Liverpool,1786,0,1,0.05039193729003359,104.0
+Cody Gakpo,FW,Liverpool,1649,8,5,0.7095209217707701,18.0
+Ibrahima Konaté,DF,Liverpool,1574,0,0,0.0,114.0
+Curtis Jones,MF,Liverpool,1167,1,1,0.15424164524421594,66.0
+Diogo Jota,FW,Liverpool,1145,10,3,1.0218340611353713,4.0
+Jarell Quansah,DF,Liverpool,1190,2,0,0.1512605042016807,33.0
+Ryan Gravenberch,MF,Liverpool,1121,1,0,0.08028545941123996,80.0
+Harvey Elliott,MF,Liverpool,1352,3,6,0.599112426035503,6.0
+William Saliba,DF,Arsenal,3420,2,1,0.07894736842105263,76.0
+Declan Rice,MF,Arsenal,3225,7,8,0.41860465116279066,18.0
+Martin Ødegaard,MF,Arsenal,3091,8,10,0.5241022322872857,9.0
+Ben White,DF,Arsenal,2988,4,4,0.24096385542168672,15.0
+Bukayo Saka,FW,Arsenal,2919,16,9,0.7708119218910586,15.0
+Gabriel Magalhães,DF,Arsenal,3044,4,0,0.11826544021024966,50.0
+Kai Havertz,MF,Arsenal,2634,13,7,0.683371298405467,3.0
+Gabriel Martinelli,FW,Arsenal,2019,6,4,0.44576523031203563,49.0
+Oleksandr Zinchenko,DF,Arsenal,1722,1,2,0.15679442508710803,31.0
+Leandro Trossard,FW,Arsenal,1649,12,1,0.7095209217707701,18.0
+Gabriel Jesus,FW,Arsenal,1478,4,5,0.5480378890392422,39.0
+Jakub Kiwior,DF,Arsenal,946,1,3,0.38054968287526425,2.0
+Takehiro Tomiyasu,DF,Arsenal,1149,2,1,0.23498694516971277,16.0
+Eddie Nketiah,FW,Arsenal,1082,5,2,0.5822550831792976,34.0
+Jorginho,MF,Arsenal,921,0,2,0.19543973941368079,55.0
+Conor Gallagher,MF,Chelsea,3128,5,7,0.3452685421994885,24.0
+Moisés Caicedo,MF,Chelsea,2866,1,3,0.1256106071179344,71.0
+Nicolas Jackson,FW,Chelsea,2799,14,5,0.6109324758842444,31.0
+Cole Palmer,FW,Chelsea,2607,22,11,1.139240506329114,1.0
+Axel Disasi,DF,Chelsea,2579,2,0,0.06979449398991858,88.0
+Thiago Silva,DF,Chelsea,2527,3,1,0.14246141669964385,37.0
+Enzo Fernández,MF,Chelsea,2209,3,2,0.2037120869171571,53.0
+Raheem Sterling,FW,Chelsea,1978,8,4,0.5460060667340748,40.0
+Levi Colwill,DF,Chelsea,1797,1,1,0.1001669449081803,60.0
+Marc Cucurella,DF,Chelsea,1782,0,2,0.10101010101010101,59.0
+Malo Gusto,DF,Chelsea,1751,0,6,0.3083952027412907,6.0
+Mykhailo Mudryk,FW,Chelsea,1576,5,2,0.39974619289340096,56.0
+Benoît Badiashile,DF,Chelsea,1338,0,1,0.06726457399103139,92.0
+Noni Madueke,FW,Chelsea,1053,5,2,0.5982905982905983,32.0
+Trevoh Chalobah,DF,Chelsea,952,1,0,0.09453781512605042,64.0
+Bruno Guimarães,MF,Newcastle United,3263,7,8,0.4137296965982225,19.0
+Fabian Schär,DF,Newcastle United,3054,4,1,0.14734774066797643,36.0
+Anthony Gordon,FW,Newcastle United,2890,11,10,0.6539792387543252,23.0
+Dan Burn,DF,Newcastle United,2726,2,2,0.13206162876008803,44.0
+Sean Longstaff,MF,Newcastle United,2747,6,2,0.2621041135784492,38.0
+Alexander Isak,FW,Newcastle United,2255,21,2,0.9179600886917959,6.0
+Kieran Trippier,DF,Newcastle United,2236,1,10,0.44275491949910556,1.0
+Miguel Almirón,FW,Newcastle United,1937,3,1,0.1858544140423335,80.0
+Sven Botman,DF,Newcastle United,1377,2,2,0.26143790849673204,12.0
+Joelinton,MF,Newcastle United,1279,2,1,0.21110242376856922,51.0
+Lewis Miley,MF,Newcastle United,1202,1,3,0.2995008319467554,31.0
+Jacob Murphy,FW,Newcastle United,1189,3,7,0.7569386038687973,16.0
+Jamaal Lascelles,DF,Newcastle United,1080,1,0,0.08333333333333333,72.0
+Valentino Livramento,DF,Newcastle United,1314,1,0,0.0684931506849315,89.0
+Elliot Anderson,MF,Newcastle United,1027,0,2,0.17526777020447906,63.0
+Callum Wilson,FW,Newcastle United,991,9,1,0.9081735620585267,7.0
+Emil Krafth,DF,Newcastle United,913,0,0,0.0,114.0
+Pedro Porro,DF,Tottenham Hotspur,3089,3,7,0.29135642602784073,10.0
+Son Heung-min,FW,Tottenham Hotspur,2934,17,10,0.8282208588957055,12.0
+Cristian Romero,DF,Tottenham Hotspur,2790,5,0,0.16129032258064516,30.0
+Dejan Kulusevski,FW,Tottenham Hotspur,2762,8,3,0.3584359160028964,63.0
+Destiny Udogie,DF,Tottenham Hotspur,2391,2,3,0.18820577164366373,23.0
+Micky van de Ven,DF,Tottenham Hotspur,2339,3,0,0.11543394613082515,52.0
+Pape Matar Sarr,MF,Tottenham Hotspur,2069,3,3,0.2609956500724988,39.0
+James Maddison,MF,Tottenham Hotspur,2135,4,9,0.5480093676814989,8.0
+Yves Bissouma,MF,Tottenham Hotspur,2068,0,0,0.0,92.0
+Brennan Johnson,FW,Tottenham Hotspur,2085,5,10,0.6474820143884892,25.0
+Richarlison,FW,Tottenham Hotspur,1491,11,4,0.9054325955734407,8.0
+Rodrigo Bentancur,MF,Tottenham Hotspur,1005,1,1,0.17910447761194032,60.0
+Ben Davies,DF,Tottenham Hotspur,1090,1,0,0.08256880733944955,74.0
+Emerson,DF,Tottenham Hotspur,1161,1,0,0.07751937984496124,80.0
+Pierre Højbjerg,MF,Tottenham Hotspur,1311,0,0,0.0,92.0
+Diogo Dalot,DF,Manchester United,3174,2,3,0.14177693761814744,38.0
+Bruno Fernandes,MF,Manchester United,3118,10,8,0.5195638229634381,12.0
+Alejandro Garnacho,FW,Manchester United,2565,7,4,0.38596491228070173,59.0
+Marcus Rashford,FW,Manchester United,2271,7,2,0.35667107001321,65.0
+Rasmus Højlund,FW,Manchester United,2158,10,2,0.5004633920296571,46.0
+Casemiro,MF,Manchester United,1982,1,2,0.136226034308779,69.0
+Kobbie Mainoo,MF,Manchester United,1924,3,1,0.18711018711018712,57.0
+Aaron Wan-Bissaka,DF,Manchester United,1780,0,2,0.10112359550561797,58.0
+Scott McTominay,MF,Manchester United,1901,7,1,0.3787480273540242,21.0
+Harry Maguire,DF,Manchester United,1653,2,2,0.2177858439201452,19.0
+Raphaël Varane,DF,Manchester United,1375,1,0,0.06545454545454545,93.0
+Jonny Evans,DF,Manchester United,1392,0,1,0.06465517241379311,94.0
+Antony,FW,Manchester United,1324,1,1,0.13595166163141995,81.0
+Victor Lindelöf,DF,Manchester United,1328,1,1,0.1355421686746988,43.0
+Christian Eriksen,MF,Manchester United,1141,1,2,0.23663453111305874,45.0
+Luke Shaw,DF,Manchester United,959,0,0,0.0,114.0
+Sofyan Amrabat,MF,Manchester United,938,0,0,0.0,92.0
+Ollie Watkins,FW,Aston Villa,3217,19,13,0.895244016164128,9.0
+Ezri Konsa,DF,Aston Villa,3069,1,0,0.029325513196480937,111.0
+John McGinn,MF,Aston Villa,2999,6,4,0.3001000333444481,30.0
+Douglas Luiz,MF,Aston Villa,2993,9,5,0.420982292014701,16.0
+Pau Torres,DF,Aston Villa,2464,2,0,0.07305194805194806,82.0
+Lucas Digne,DF,Aston Villa,2410,1,3,0.14937759336099585,34.0
+Moussa Diaby,FW,Aston Villa,2174,6,8,0.5795768169273229,35.0
+Matty Cash,DF,Aston Villa,2142,2,2,0.1680672268907563,28.0
+Leon Bailey,MF,Aston Villa,2068,10,9,0.8268858800773694,2.0
+Diego Carlos,DF,Aston Villa,1816,0,0,0.0,114.0
+Boubacar Kamara,MF,Aston Villa,1652,0,1,0.054479418886198554,87.0
+Youri Tielemans,MF,Aston Villa,1622,2,6,0.4438964241676942,13.0
+Clément Lenglet,DF,Aston Villa,1153,0,1,0.07805724197745012,78.0
+Álex Moreno,DF,Aston Villa,1031,2,0,0.1745877788554801,27.0
+Vladimír Coufal,DF,West Ham United,3132,0,7,0.20114942528735633,21.0
+Emerson Palmieri,DF,West Ham United,3137,1,2,0.08606949314631814,67.0
+Jarrod Bowen,FW,West Ham United,3019,16,6,0.6558463067240808,22.0
+James Ward-Prowse,MF,West Ham United,3001,7,7,0.4198600466511163,17.0
+Tomáš Souček,MF,West Ham United,2870,7,2,0.28222996515679444,34.0
+Kurt Zouma,DF,West Ham United,2838,3,0,0.09513742071881606,63.0
+Lucas Paquetá,FW,West Ham United,2622,4,6,0.34324942791762014,66.0
+Edson Álvarez,MF,West Ham United,2377,1,1,0.07572570466975179,82.0
+Mohammed Kudus,FW,West Ham United,2484,8,6,0.5072463768115941,44.0
+Nayef Aguerd,DF,West Ham United,1857,1,0,0.048465266558966075,105.0
+Michail Antonio,FW,West Ham United,1695,6,2,0.42477876106194695,53.0
+Konstantinos Mavropanos,DF,West Ham United,1500,1,0,0.06,98.0
+Joachim Andersen,DF,Crystal Palace,3415,2,3,0.13177159590043924,45.0
+Tyrick Mitchell,DF,Crystal Palace,3204,2,3,0.14044943820224717,40.0
+Jordan Ayew,FW,Crystal Palace,2543,4,7,0.3893039716869839,58.0
+Jefferson Lerma,MF,Crystal Palace,2400,1,1,0.075,83.0
+Jean-Philippe Mateta,FW,Crystal Palace,2282,16,5,0.8282208588957055,12.0
+Eberechi Eze,MF,Crystal Palace,2055,11,4,0.6569343065693432,4.0
+Chris Richards,DF,Crystal Palace,2094,1,1,0.08595988538681949,68.0
+Marc Guéhi,DF,Crystal Palace,2021,0,1,0.044532409698169226,108.0
+Joel Ward,DF,Crystal Palace,1980,0,1,0.045454545454545456,107.0
+Will Hughes,MF,Crystal Palace,1891,0,1,0.047593865679534636,89.0
+Odsonne Édouard,FW,Crystal Palace,1555,7,0,0.40514469453376206,55.0
+Jeffrey Schlupp,FW,Crystal Palace,1352,2,2,0.26627218934911245,74.0
+Daniel Muñoz,DF,Crystal Palace,1439,0,4,0.2501737317581654,13.0
+Adam Wharton,MF,Crystal Palace,1297,0,3,0.2081727062451812,52.0
+Nathaniel Clyne,DF,Crystal Palace,1338,0,0,0.0,114.0
+Michael Olise,FW,Crystal Palace,1275,10,6,1.1294117647058823,2.0
+Cheick Doucouré,MF,Crystal Palace,919,0,0,0.0,92.0
+Antonee Robinson,DF,Fulham,3265,0,6,0.16539050535987748,29.0
+Andreas Pereira,MF,Fulham,2613,3,7,0.3444316877152698,25.0
+João Palhinha,MF,Fulham,2699,4,1,0.16672841793256762,64.0
+Timothy Castagne,DF,Fulham,2634,1,3,0.1366742596810934,41.0
+Calvin Bassey,DF,Fulham,2303,1,0,0.03907946157186279,109.0
+Alex Iwobi,FW,Fulham,2192,5,2,0.2874087591240876,69.0
+Willian,FW,Fulham,2053,4,2,0.26302971261568436,76.0
+Tosin Adarabioyo,DF,Fulham,1617,2,0,0.11131725417439704,55.0
+Rodrigo Muniz,FW,Fulham,1593,9,1,0.5649717514124294,37.0
+Raúl Jiménez,FW,Fulham,1395,7,0,0.45161290322580644,48.0
+Tim Ream,DF,Fulham,1503,1,0,0.059880239520958084,99.0
+Bobby Reid,FW,Fulham,1423,6,2,0.5059732958538299,45.0
+Harry Wilson,FW,Fulham,1620,4,6,0.5555555555555556,38.0
+Issa Diop,DF,Fulham,1424,0,0,0.0,114.0
+Harrison Reed,MF,Fulham,1325,0,2,0.13584905660377358,70.0
+Tom Cairney,MF,Fulham,1488,1,4,0.30241935483870963,28.0
+Saša Lukić,MF,Fulham,1122,1,0,0.08021390374331551,81.0
+James Tarkowski,DF,Everton,3419,1,1,0.05264697279906406,102.0
+Jarrad Branthwaite,DF,Everton,3116,3,0,0.08664955070603338,66.0
+James Garner,MF,Everton,3004,1,2,0.08988015978695073,77.0
+Dwight McNeil,MF,Everton,2892,3,6,0.2800829875518672,36.0
+Abdoulaye Doucouré,FW,Everton,2629,7,1,0.2738683910232027,73.0
+Vitaliy Mykolenko,DF,Everton,2469,2,0,0.07290400972053462,84.0
+Ashley Young,DF,Everton,2280,0,0,0.0,114.0
+Dominic Calvert-Lewin,FW,Everton,2171,7,2,0.3730999539382773,61.0
+Jack Harrison,MF,Everton,2214,3,3,0.24390243902439024,42.0
+Idrissa Gana Gueye,MF,Everton,1884,4,0,0.19108280254777069,56.0
+Amadou Onana,MF,Everton,2091,2,0,0.0860832137733142,79.0
+Ben Godfrey,DF,Everton,1120,0,0,0.0,114.0
+Nathan Patterson,DF,Everton,1005,0,2,0.17910447761194032,25.0
+Beto,FW,Everton,951,3,0,0.28391167192429023,70.0
+Pascal Groß,MF,Brighton,3114,4,10,0.40462427745664736,20.0
+Lewis Dunk,DF,Brighton,2869,3,1,0.12547926106657373,49.0
+Jan Paul van Hecke,DF,Brighton,2369,0,0,0.0,114.0
+Simon Adingra,FW,Brighton,2222,6,1,0.2835283528352835,71.0
+Billy Gilmour,MF,Brighton,2120,0,1,0.04245283018867924,90.0
+Danny Welbeck,FW,Brighton,1693,5,1,0.31896042528056706,67.0
+João Pedro,FW,Brighton,2045,9,3,0.5281173594132029,42.0
+Igor,DF,Brighton,1637,0,0,0.0,114.0
+Joël Veltman,DF,Brighton,1588,1,1,0.11335012594458438,53.0
+Facundo Buonanotte,FW,Brighton,1364,3,1,0.26392961876832843,75.0
+Kaoru Mitoma,FW,Brighton,1486,3,4,0.4239569313593539,54.0
+Evan Ferguson,FW,Brighton,1367,6,0,0.3950256035113387,57.0
+Carlos Baleba,MF,Brighton,1325,0,0,0.0,92.0
+Pervis Estupiñán,DF,Brighton,1243,2,3,0.36202735317779566,3.0
+Adam Webster,DF,Brighton,1144,0,0,0.0,114.0
+Tariq Lamptey,DF,Brighton,914,0,3,0.2954048140043764,8.0
+Illia Zabarnyi,DF,Bournemouth,3330,1,0,0.02702702702702703,113.0
+Dominic Solanke,FW,Bournemouth,3325,19,3,0.5954887218045113,33.0
+Ryan Christie,MF,Bournemouth,2907,0,5,0.15479876160990713,65.0
+Lewis Cook,MF,Bournemouth,2786,0,3,0.09691313711414214,75.0
+Marcos Senesi,DF,Bournemouth,2242,4,5,0.36128456735057984,4.0
+Justin Kluivert,MF,Bournemouth,1916,7,1,0.3757828810020877,22.0
+Adam Smith,DF,Bournemouth,2150,0,2,0.08372093023255814,71.0
+Marcus Tavernier,FW,Bournemouth,2118,3,4,0.29745042492917845,68.0
+Antoine Semenyo,FW,Bournemouth,2105,8,2,0.42755344418052255,52.0
+Milos Kerkez,DF,Bournemouth,1970,0,1,0.04568527918781726,106.0
+Lloyd Kelly,DF,Bournemouth,1559,0,1,0.05772931366260423,100.0
+Philip Billing,MF,Bournemouth,1398,2,2,0.2575107296137339,40.0
+Max Aarons,DF,Bournemouth,1237,0,1,0.07275666936135813,85.0
+Dango Ouattara,FW,Bournemouth,1229,1,2,0.21969080553295364,79.0
+Alex Scott,MF,Bournemouth,1014,1,1,0.17751479289940827,61.0
+Max Kilman,DF,Wolverhampton,3420,2,0,0.05263157894736842,103.0
+Nélson Semedo,DF,Wolverhampton,3084,0,1,0.029182879377431907,112.0
+Mario Lemina,MF,Wolverhampton,2968,4,1,0.15161725067385445,67.0
+João Gomes,MF,Wolverhampton,2649,2,1,0.10192525481313704,74.0
+Toti Gomes,DF,Wolverhampton,2772,1,3,0.12987012987012986,48.0
+Matheus Cunha,FW,Wolverhampton,2440,12,7,0.7008196721311476,20.0
+Rayan Aït-Nouri,DF,Wolverhampton,2329,2,1,0.11592958351223702,51.0
+Craig Dawson,DF,Wolverhampton,2209,1,1,0.08148483476686283,75.0
+Hwang Hee-chan,FW,Wolverhampton,2119,12,3,0.6370929683813119,26.0
+Pablo Sarabia,MF,Wolverhampton,1745,4,7,0.5673352435530086,7.0
+Pedro Neto,FW,Wolverhampton,1516,2,9,0.6530343007915567,24.0
+Tommy Doyle,MF,Wolverhampton,1222,0,0,0.0,92.0
+Jean-Ricner Bellegarde,MF,Wolverhampton,958,2,1,0.2818371607515658,35.0
+Matt Doherty,DF,Wolverhampton,1150,1,0,0.07826086956521738,77.0
+Vitaly Janelt,MF,Brentford,3054,1,3,0.11787819253438116,72.0
+Christian Nørgaard,MF,Brentford,2505,2,1,0.10778443113772455,73.0
+Nathan Collins,DF,Brentford,2652,1,1,0.06787330316742082,91.0
+Yoane Wissa,FW,Brentford,2493,12,3,0.5415162454873647,41.0
+Ethan Pinnock,DF,Brentford,2521,2,0,0.07140023800079333,87.0
+Mathias Jensen,MF,Brentford,2204,3,3,0.24500907441016337,41.0
+Mads Roerslev,DF,Brentford,1985,1,2,0.13602015113350124,42.0
+Bryan Mbeumo,FW,Brentford,1960,9,6,0.6887755102040816,21.0
+Kristoffer Ajer,DF,Brentford,1832,2,1,0.14737991266375547,35.0
+Ivan Toney,FW,Brentford,1450,4,2,0.3724137931034483,62.0
+Keane Lewis-Potter,FW,Brentford,1441,3,1,0.24982650936849407,77.0
+Ben Mee,DF,Brentford,1272,2,0,0.14150943396226415,39.0
+Sergio Reguilón,DF,Brentford,1118,0,4,0.3220035778175313,5.0
+Neal Maupay,FW,Brentford,1321,6,3,0.6131718395155186,30.0
+Mathias Jørgensen,DF,Brentford,1087,1,0,0.0827966881324747,73.0
+Frank Onyeka,MF,Brentford,1161,1,2,0.23255813953488372,46.0
+Morgan Gibbs-White,MF,Nottingham Forest,3156,5,10,0.4277566539923954,15.0
+Murillo,DF,Nottingham Forest,2789,0,2,0.0645392613840086,95.0
+Anthony Elanga,FW,Nottingham Forest,2433,5,9,0.5178791615289765,43.0
+Ryan Yates,MF,Nottingham Forest,1992,1,1,0.09036144578313253,76.0
+Callum Hudson-Odoi,FW,Nottingham Forest,1854,8,1,0.4368932038834951,51.0
+Chris Wood,FW,Nottingham Forest,1812,14,1,0.7450331125827815,17.0
+Danilo,MF,Nottingham Forest,1792,2,2,0.20089285714285715,54.0
+Ola Aina,DF,Nottingham Forest,1692,1,1,0.10638297872340426,56.0
+Orel Mangala,MF,Nottingham Forest,1563,1,0,0.05758157389635316,86.0
+Nicolás Domínguez,MF,Nottingham Forest,1495,2,2,0.2408026755852843,43.0
+Neco Williams,DF,Nottingham Forest,1637,0,1,0.05497861942577886,101.0
+Willy Boly,DF,Nottingham Forest,1438,2,1,0.18776077885952713,24.0
+Moussa Niakhate,DF,Nottingham Forest,1460,1,0,0.06164383561643836,97.0
+Harry Toffolo,DF,Nottingham Forest,1459,1,3,0.2467443454420836,14.0
+Ibrahim Sangaré,MF,Nottingham Forest,1035,0,0,0.0,92.0
+Taiwo Awoniyi,FW,Nottingham Forest,1042,6,3,0.7773512476007678,14.0
+Alfie Doughty,DF,Luton Town,2925,2,8,0.3076923076923077,7.0
+Carlton Morris,FW,Luton Town,2862,11,4,0.4716981132075472,47.0
+Ross Barkley,MF,Luton Town,2618,5,4,0.3093964858670741,26.0
+Teden Mengi,DF,Luton Town,2469,1,0,0.03645200486026731,110.0
+Gabriel Osho,DF,Luton Town,1846,2,0,0.09750812567713975,61.0
+Issa Kaboré,DF,Luton Town,1729,0,2,0.10410641989589357,57.0
+Amari'i Bell,DF,Luton Town,1720,0,0,0.0,114.0
+Chiedozie Ogbene,MF,Luton Town,1995,4,1,0.22556390977443608,47.0
+Tahith Chong,MF,Luton Town,1982,4,0,0.18163471241170534,59.0
+Reece Burke,DF,Luton Town,1660,0,4,0.2168674698795181,20.0
+Elijah Adebayo,FW,Luton Town,1419,10,0,0.6342494714587738,27.0
+Albert Sambi Lokonga,MF,Luton Town,1303,1,3,0.2762854950115119,37.0
+Jordan Clark,MF,Luton Town,1304,1,1,0.13803680981595093,68.0
+Andros Townsend,MF,Luton Town,1210,1,3,0.2975206611570248,32.0
+Tom Lockyer,DF,Luton Town,1169,1,1,0.15397775876817793,32.0
+Marvelous Nakamba,MF,Luton Town,1130,0,0,0.0,92.0
+Jacob Brown,MF,Luton Town,1019,2,0,0.17664376840039253,62.0
+Pelly Ruddock Mpanzu,MF,Luton Town,1101,0,0,0.0,92.0
+Sander Berge,MF,Burnley,3005,1,2,0.08985024958402663,78.0
+Dara O'Shea,DF,Burnley,2892,3,4,0.21784232365145229,18.0
+Zeki Amdouni,FW,Burnley,1953,5,1,0.2764976958525346,72.0
+Vitinho,DF,Burnley,2314,0,2,0.07778738115816768,79.0
+Charlie Taylor,DF,Burnley,2331,1,1,0.07722007722007722,81.0
+Wilson Odobert,MF,Burnley,2098,3,2,0.21448999046711154,49.0
+Josh Brownhill,MF,Burnley,2252,4,2,0.23978685612788633,44.0
+Josh Cullen,MF,Burnley,2057,2,3,0.21876519202722414,48.0
+Lyle Foster,FW,Burnley,1899,5,3,0.3791469194312796,60.0
+Jacob Bruun Larsen,MF,Burnley,1249,6,0,0.4323458767013611,14.0
+Maxime Estève,DF,Burnley,1309,0,0,0.0,114.0
+Lorenz Assignon,DF,Burnley,1234,1,2,0.2188006482982172,17.0
+Jordan Beyer,DF,Burnley,1234,0,1,0.07293354943273907,83.0
+Luca Koleosho,MF,Burnley,974,1,1,0.18480492813141683,58.0
+Jóhann Berg Guðmundsson,MF,Burnley,1192,1,3,0.30201342281879195,29.0
+Ameen Al-Dakhil,DF,Burnley,1056,1,0,0.08522727272727273,69.0
+Gustavo Hamer,MF,Sheffield United,2910,4,6,0.3092783505154639,27.0
+Jayden Bogle,DF,Sheffield United,2788,3,0,0.09684361549497848,62.0
+Jack Robinson,DF,Sheffield United,2885,1,1,0.062391681109185436,96.0
+Vinicius Souza,MF,Sheffield United,2668,1,0,0.03373313343328336,91.0
+Anel Ahmedhodžić,DF,Sheffield United,2649,2,0,0.06795016987542468,90.0
+Auston Trusty,DF,Sheffield United,2572,0,0,0.0,114.0
+Cameron Archer,FW,Sheffield United,1832,4,1,0.24563318777292578,78.0
+James Mcatee,MF,Sheffield United,1822,3,3,0.296377607025247,33.0
+Oliver Norwood,MF,Sheffield United,1440,1,0,0.0625,84.0
+Oliver McBurnie,FW,Sheffield United,1280,6,3,0.6328125,28.0
+Ben Osborn,DF,Sheffield United,1367,0,2,0.13167520117044623,46.0
+Ben Brereton,FW,Sheffield United,1105,6,1,0.5701357466063348,36.0
+Andre Brooks,MF,Sheffield United,938,0,0,0.0,92.0
+George Baldock,DF,Sheffield United,969,0,1,0.09287925696594426,65.0
+Oliver Arblaster,MF,Sheffield United,943,0,0,0.0,92.0
+Luke Thomas,DF,Sheffield United,917,0,0,0.0,114.0
