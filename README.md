@@ -95,7 +95,7 @@ The Power BI report (`dashboard.pbix`) contains three pages:
 
 <img width="1042" height="582" alt="image" src="https://github.com/user-attachments/assets/946b9cee-0e15-430a-958d-3daff7bff242" />
 
-<img width="1042" height="582" alt="image" src="https://github.com/user-attachments/assets/8319243b-ccca-4bb3-9073-2e5d5f2f4e33" />
+<img width="957" height="537" alt="image" src="https://github.com/user-attachments/assets/00533da9-6883-4e94-912a-2a02a8595433" />
 
 <img width="1535" height="590" alt="image" src="https://github.com/user-attachments/assets/c810d534-2b45-4671-9bb0-345c4bf3f3a9" />
 
